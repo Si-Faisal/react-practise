@@ -1,0 +1,16 @@
+.menubar{
+    width: 38px !important;
+    margin-left: 12px;
+}
+.menu-item li{
+    margin-left: 10px;
+    list-style: none;
+    padding: 10px 15px;
+    background-color: rgb(70, 218, 168);
+}
+.menu-item li>a{
+  color: white;
+}
+ .header-part{
+    background-color: cadetblue;
+ }
